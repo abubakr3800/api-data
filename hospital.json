@@ -1,0 +1,35 @@
+{
+  "users": [
+    { "id": 1, "username": "patient1", "password": "123", "name": "Ali Ahmed", "pendingServices": [], "oldServices": [] },
+    { "id": 2, "username": "patient2", "password": "123", "name": "Sara Ibrahim", "pendingServices": [], "oldServices": [] },
+    { "id": 3, "username": "patient3", "password": "123", "name": "Mohamed Zaki", "pendingServices": [], "oldServices": [] },
+    { "id": 4, "username": "patient4", "password": "123", "name": "Nour Hassan", "pendingServices": [], "oldServices": [] },
+    { "id": 5, "username": "patient5", "password": "123", "name": "Youssef Samir", "pendingServices": [], "oldServices": [] },
+    { "id": 6, "username": "patient6", "password": "123", "name": "Aya Gamal", "pendingServices": [], "oldServices": [] },
+    { "id": 7, "username": "patient7", "password": "123", "name": "Tamer Fouad", "pendingServices": [], "oldServices": [] },
+    { "id": 8, "username": "patient8", "password": "123", "name": "Nadine Adel", "pendingServices": [], "oldServices": [] },
+    { "id": 9, "username": "patient9", "password": "123", "name": "Omar Mahmoud", "pendingServices": [], "oldServices": [] },
+    { "id": 10, "username": "patient10", "password": "123", "name": "Laila Hany", "pendingServices": [], "oldServices": [] }
+  ],
+  "doctors": [
+    { "id": 101, "username": "drsara", "password": "123", "name": "Dr. Sara Youssef", "specialty": "Radiology" },
+    { "id": 102, "username": "drmohamed", "password": "123", "name": "Dr. Mohamed Adel", "specialty": "Laboratory" },
+    { "id": 103, "username": "drali", "password": "123", "name": "Dr. Ali Younes", "specialty": "Cardiology" },
+    { "id": 104, "username": "drdina", "password": "123", "name": "Dr. Dina Hossam", "specialty": "Dermatology" },
+    { "id": 105, "username": "drkhaled", "password": "123", "name": "Dr. Khaled Nabil", "specialty": "Orthopedics" }
+  ],
+  "services": [
+    { "id": 1, "name": "General Checkup", "price": 300, "image": "https://placehold.co/300x200?text=Checkup" },
+    { "id": 2, "name": "X-Ray", "price": 600, "image": "https://placehold.co/300x200?text=X-Ray" },
+    { "id": 3, "name": "Blood Test", "price": 400, "image": "https://placehold.co/300x200?text=Blood+Test" },
+    { "id": 4, "name": "MRI Scan", "price": 1500, "image": "https://placehold.co/300x200?text=MRI" },
+    { "id": 5, "name": "Dental Cleaning", "price": 350, "image": "https://placehold.co/300x200?text=Dental" },
+    { "id": 6, "name": "Heart ECG", "price": 700, "image": "https://placehold.co/300x200?text=ECG" },
+    { "id": 7, "name": "Skin Consultation", "price": 250, "image": "https://placehold.co/300x200?text=Skin+Check" },
+    { "id": 8, "name": "Eye Exam", "price": 300, "image": "https://placehold.co/300x200?text=Eye+Exam" },
+    { "id": 9, "name": "Ultrasound", "price": 900, "image": "https://placehold.co/300x200?text=Ultrasound" },
+    { "id": 10, "name": "Physiotherapy Session", "price": 200, "image": "https://placehold.co/300x200?text=Physio" },
+    { "id": 11, "name": "Vitamin D Test", "price": 150, "image": "https://placehold.co/300x200?text=Vitamin+D" },
+    { "id": 12, "name": "Blood Sugar Test", "price": 180, "image": "https://placehold.co/300x200?text=Sugar+Test" }
+  ]
+}
